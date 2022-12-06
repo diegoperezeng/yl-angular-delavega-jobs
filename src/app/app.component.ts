@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'yl-angular-delavega-jobs';
+  title = 'Delavega´s Jobs Site (powered by LandingJobs)';
 }
