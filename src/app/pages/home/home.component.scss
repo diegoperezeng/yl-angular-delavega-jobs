@@ -1,12 +1,23 @@
 .warnings{
     display: flex;
-    max-width: 80%;
+    max-width: 70%;
     justify-content: center;
     margin: 1rem auto;
 
     border: 2px;
     border-style: solid;
     border-radius: 1vh 1vh 1vh 1vh;
+    font: 'Roboto';
+    font-weight: 600;
+    font-size: 3vw;
+    
+}
+.warnings2{
+    display: flex;
+    max-width: auto;
+    justify-content: center;
+    margin: 1rem auto;
+
     font: 'Roboto';
     font-weight: 600;
     font-size: 2vw;
