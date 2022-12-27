@@ -7,6 +7,7 @@ import { RoutingModule } from './routing.module';
 //Pages
 import { HomeComponent } from './home/home.component';
 import { JobdetailsComponent } from './jobdetails/jobdetails.component';
+import { SharedModule } from '../shared/shared.module';
 
 
 
@@ -18,7 +19,8 @@ import { JobdetailsComponent } from './jobdetails/jobdetails.component';
   ],
   imports: [
     CommonModule,
-    RoutingModule
+    RoutingModule,
+    SharedModule
   ]
 })
 export class PagesModule { }
