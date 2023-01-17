@@ -3,15 +3,18 @@ import { CommonModule } from '@angular/common';
 
 // Components
 import { JobHeaderComponent } from './job-header/job-header.component';
+import { JobContentComponent } from './job-content/job-content.component';
 
 
 
 @NgModule({
   declarations: [
-    JobHeaderComponent
+    JobHeaderComponent,
+    JobContentComponent
   ],
   exports: [
-    JobHeaderComponent
+    JobHeaderComponent,
+    JobContentComponent
   ],
   imports: [
     CommonModule
