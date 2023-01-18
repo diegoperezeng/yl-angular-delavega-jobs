@@ -1,16 +1,16 @@
 .home-grid{
-    display:grid;
-    grid-template-columns: 40px auto 40px;
-    grid-template-areas: 
-        " . main ."
-        "footer footer footer";
+    // display:grid;
+    // grid-template-columns: 40px auto 40px;
+    // grid-template-areas: 
+    //     " . main ."
+    //     "footer footer footer";
 }
 
 yl-job-header{
-    grid-area: main;
+    // grid-area: main;
 }
 
 yl-job-content{
-    grid-area: main;
-    padding-top: 6vw;
+    // grid-area: main;
+    // padding-top: 6vw;
 }
