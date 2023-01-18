@@ -1,6 +1,6 @@
 .home-grid{
     display:grid;
-    grid-template-columns: 1fr auto 1fr;
+    grid-template-columns: 40px auto 40px;
     grid-template-areas: 
         " . main ."
         "footer footer footer";
