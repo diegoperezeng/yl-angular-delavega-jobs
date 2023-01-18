@@ -1,3 +1,18 @@
+# Introduction
+
+This project was created to show my Angular abilities. It simple show jobs in data owned by LandingJobs through their API (https://github.com/LandingJobs/LandingJobs-api), using consume methods.
+
+In this one I applied:
+- Lazy Loading
+- Modules organization
+- Shared Components
+- Angular Animation
+- API rest consume
+
+Hope you enjoy!
+
+P.s: Feel free to open issues, send pull requests and send messages!
+
 # YlAngularDelavegaJobs
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.2.
