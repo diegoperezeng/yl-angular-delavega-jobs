@@ -44,14 +44,13 @@
     font-weight: 600;
     font-size: 2vw;
 }
-.component-show{
+.job-list{
     display: flex;
     flex-direction: column;
     grid-area: main;
+    width: auto;
     justify-content: center;
     align-items: center;
-    width: 100%;
-    height: 100%;
     font-style: 'Roboto';
     font-weight: 600;
     font-size: 2vw;
