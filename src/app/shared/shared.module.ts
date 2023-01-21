@@ -16,7 +16,8 @@ import { JobListComponent } from './job-list/job-list.component';
   ],
   exports: [
     JobHeaderComponent,
-    JobContentComponent
+    JobContentComponent,
+    JobListComponent
   ],
   imports: [
     CommonModule
